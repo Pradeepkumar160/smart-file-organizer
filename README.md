@@ -1,4 +1,4 @@
-# 🗂️ Smart File Organizer.   
+# 🗂️ Smart File Organizer.  
 
 A Python automation tool that organizes your files into tidy category folders, detects duplicates, generates reports, and optionally runs on a daily schedule.
 
